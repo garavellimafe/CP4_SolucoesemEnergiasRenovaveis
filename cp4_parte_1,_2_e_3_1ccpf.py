@@ -14,6 +14,7 @@ Original file is located at
 - MariaFernanda Garavelli Dantas RM: 562686
 - Rogério Deligi Ferreira Filho RM: 561942
 - Guilherme Morais de Assis  RM: 564198
+- Lucas Kenzo Nishiwaki RM: 561325
 
 # **Inicio da CP4**
 
