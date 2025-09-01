@@ -4,6 +4,7 @@ Integrantes:
 - MariaFernanda Garavelli Dantas RM: 562686
 - Rogério Deligi Ferreira Filho RM: 561942
 - Guilherme Morais de Assis  RM: 564198
+- Lucas Kenzo Nishiwaki  RM: 561325
 
 O aluno Guilherme foi responsável pela Parte 1, que contemplou os exercícios de 1 a 20. Essa seção baseou-se no dataset household_power_consumption.txt e envolveu desde a elaboração de gráficos exploratórios até a resolução de exercícios de cálculo e análise estatística, permitindo uma compreensão inicial do comportamento dos dados.
 
